@@ -31,3 +31,23 @@ body {
     text-wrap: balance;
   }
 }
+
+:link {
+  color: #17633c
+}
+
+:visited {
+  color: #dae81a
+}
+
+:active { /* Placeholder to hold color scheme*/
+  fill: #dae81a;
+  fill: #f8fdf8;
+  fill: #67e38d;
+  fill: #17633c;
+  fill: #12592B;
+  fill: #2EA636;
+  fill: #394007;
+  fill: #B9BF04;
+  fill: #888C07;
+}
